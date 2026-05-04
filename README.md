@@ -3,7 +3,6 @@
 Predict high-performing products using marketing data.
 # Dataset
 Kaggle dataset: https://www.kaggle.com/datasets/imranalishahh/marketing-and-product-performance-dataset
-
 # TASK
 classification
 # MODELS
